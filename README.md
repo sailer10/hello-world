@@ -1,2 +1,4 @@
 # hello-world
-github tutorial
+깃허브 연습용 프로젝트 입니다.
+현재 Git bash 를 이용하여 연습하고 있습니다.
+많은 이용 부탁드립니다.
